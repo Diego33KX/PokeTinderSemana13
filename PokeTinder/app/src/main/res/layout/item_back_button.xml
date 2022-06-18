@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.floatingactionbutton.FloatingActionButton
+    android:id="@+id/btnBackClose"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="40dp"
+    android:layout_height="40dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:tint="@color/havelock_blue"
+    app:backgroundTint="@color/white"
+    android:src="@drawable/ic_baseline_keyboard_arrow_left_24"
+    app:fabSize="mini"/>
